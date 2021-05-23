@@ -16,6 +16,8 @@ To play the game open main_v3.py and run it in your preffered text-editor and pl
 same location as it. Leave the games window size as it is and don't modify it.
 
 Please download Hannya.wav before running the game. Hannya.wav is a 40MB wav file which was provided to my TA mentor seperately.
+Otherwise download Hannya.mp3 from here -> https://www.mediafire.com/file/kxubbjlapiz70d9/Hannya.mp3/file
+Then convert the mp3 file to a wav file using -> https://cloudconvert.com/mp3-to-wav
 
 Certain modules need to be installed before running the game, these modules include pygame and mysql.connector.
 
